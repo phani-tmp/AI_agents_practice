@@ -1,0 +1,17 @@
+langchain
+ipykernel 
+python-dotenv 
+langchain_community 
+bs4 
+tqdm 
+pypdf
+langchain-openai 
+langchain-text-splitters
+langchain-ollama
+faiss-cpu
+# langchain-chroma 
+streamlit
+langserve 
+langchain-groq 
+fastapi 
+langchain-core
